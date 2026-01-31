@@ -15,19 +15,19 @@ In this type of SQL command, we create, Modify data
 
 ___
 
-Syntax for creating the database :-
+- Syntax for creating the database :-
 ```bash
 CREATE DATABASE database_name
 ```
 
 ___
 
-Syntax for deleting the database :-
+- Syntax for deleting the database :-
 ```bash
 DROP DATABASE database_name
 ```
 ___
-Syntax for creating the table <br>
+- Syntax for creating the table <br>
 ```bash
 CREATE TABLE users(
     col_name data_type,
@@ -36,7 +36,7 @@ CREATE TABLE users(
 )
 ```
 ---
-Syntax for truncating the rows in a table **(make sure while using this command, and first confirm it then use)** <br>
+- Syntax for truncating the rows in a table **(make sure while using this command, and first confirm it then use)** <br>
 ```bash
 TRUNCATE TABLE users
 ```
@@ -45,3 +45,4 @@ Syntax for Droping the table from the database **(make sure while using this com
 ```bash
 DROP TABLE IF EXISTS users
 ```
+
