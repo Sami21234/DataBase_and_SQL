@@ -281,13 +281,6 @@ Once you design your database, changing it later is hard. Like trying to add a r
 
 ---
 
-## 📝 Session Info
-
-**Week:** 13  
-**Session:** 30  
-**Date:** February 6, 2023
-
----
 
 ## 💡 Quick Tips for Beginners
 
