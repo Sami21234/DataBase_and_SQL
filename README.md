@@ -214,9 +214,9 @@ A key from another table used to connect two tables together.
 
 | Roll No ⭐ | Name          | Branch | Email              |
 |-----------|---------------|--------|--------------------|
-| 1         | Ash | CSE    | nitish@gmail.com   |
-| 2         | Brock | EEE    | ankit@gmail.com    |
-| 3         | Tracy | ME     | neha@gmail.com     |
+| 1         | Ash | CSE    | ash@gmail.com   |
+| 2         | Brock | EEE    | brock@gmail.com    |
+| 3         | Tracy | ME     | tracy@gmail.com     |
 
 Here, **Roll No** is the Primary Key!
 
